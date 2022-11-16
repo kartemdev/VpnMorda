@@ -1,6 +1,6 @@
 ## WEB приложение для управление VPN сервером.
 
-### VPN сервер устанавливаем по инструкции - https://github.com/hwdsl2/setup-ipsec-vpn
+### VPN сервер устанавливаем по [инструкции](https://github.com/hwdsl2/setup-ipsec-vpn)
 
 #### Функционал администратора:
 
